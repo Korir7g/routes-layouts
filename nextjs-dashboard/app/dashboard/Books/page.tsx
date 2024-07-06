@@ -1,3 +1,8 @@
 export default function page () {
-    return <p>Revision Materials</p>
+    return (
+    <div>
+        <h1>Revision materials</h1>
+        <p>Get Some content Here</p>
+    </div>
+    );
 }
